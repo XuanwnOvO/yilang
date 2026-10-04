@@ -1,0 +1,18 @@
+# Gradle / IDE
+.gradle/
+build/
+app/build/
+.idea/
+*.iml
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 本地工具链缓存与运行时产物
+.toolchain/
+data.tar.xz
+
+# 签名密钥（绝不入库）
+*.jks
+*.keystore
