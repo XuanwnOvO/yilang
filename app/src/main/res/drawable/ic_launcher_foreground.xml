@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 蚂蚁扛代码块 -->
+    <!-- 代码块 </> -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M40.5,23.5 h27 a4.5,4.5 0 0 1 4.5,4.5 v13 a4.5,4.5 0 0 1 -4.5,4.5 h-27 a4.5,4.5 0 0 1 -4.5,-4.5 v-13 a4.5,4.5 0 0 1 4.5,-4.5 z"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#263238"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2.6"
+        android:pathData="M47.5,29 L42,34.5 L47.5,40 M60.5,29 L66,34.5 L60.5,40 M56.5,26.8 L51.5,42.2"/>
+    <!-- 腿（三对） -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FB8C00"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.3"
+        android:pathData="M51,59 Q44,56 40.5,50.5 M57,59 Q64,56 67.5,50.5 M49.2,62.5 Q41,62.5 36.5,58.5 M58.8,62.5 Q67,62.5 71.5,58.5 M50,66.5 Q42.5,70 39.5,76 M58,66.5 Q65.5,70 68.5,76"/>
+    <!-- 触角 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FB8C00"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.2"
+        android:pathData="M50.5,49 Q45.5,47.5 41.5,48.8 M57.5,49 Q62.5,47.5 66.5,48.8"/>
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M40.1,48.8 a1.4,1.4 0 1,0 2.8,0 a1.4,1.4 0 1,0 -2.8,0 z M65.1,48.8 a1.4,1.4 0 1,0 2.8,0 a1.4,1.4 0 1,0 -2.8,0 z"/>
+    <!-- 身体：头 / 胸 / 腹 -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M48.8,51.5 a5.2,5.2 0 1,0 10.4,0 a5.2,5.2 0 1,0 -10.4,0 z"/>
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M48.4,63 a5.6,6 0 1,0 11.2,0 a5.6,6 0 1,0 -11.2,0 z"/>
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M45,77 a9,9.5 0 1,0 18,0 a9,9.5 0 1,0 -18,0 z"/>
+</vector>
